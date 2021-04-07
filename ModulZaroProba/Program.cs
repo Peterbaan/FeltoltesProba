@@ -10,6 +10,16 @@ namespace ModulZaroProba
     {
         static void Main(string[] args)
         {
+            /*
+            fájlbeolvasás, tárolás
+            adatok száma
+            legnagyobb elem helye
+            van budapesti lakos
+            mindenki 18 feletti
+            ki lakik a XIII. kerületben
+            milyen kerületekben laknak
+            melyik kerületben hányan laknak
+            */
         }
     }
 }
